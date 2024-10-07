@@ -16,8 +16,8 @@ func RenderTemplate(w http.ResponseWriter, tmpl string) {
 }
 
 func createTemplateCache(map[string]*template.Template, error){
-	myCache := map[string]*template.Template{}
-	
+	//myCache := map[string]*template.Template{}
+
 
 }
 
